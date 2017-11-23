@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-md-12">
             <p>
-            <h3><i class="fa fa-flag" aria-hidden="true"></i> <strong>Lançamentos/Destaques</strong></h3></p>
+            <h3><i class="fa fa-flag" aria-hidden="true"></i> <strong>Lançamentos / Destaques</strong></h3></p>
         </div>
     </div>
     <div class="row">

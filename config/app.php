@@ -163,7 +163,6 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-        laravel\pagseguro\Platform\Laravel5\ServiceProvider::class,
 
         /*
          * Package Service Providers...
