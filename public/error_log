@@ -1,0 +1,12 @@
+[21-Nov-2017 20:01:42] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/bsbpl762/public_html/public/index.php on line 52
+[21-Nov-2017 20:01:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/bsbpl762/public_html/public/index.php on line 52
+[21-Nov-2017 20:02:20] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/bsbpl762/public_html/public/index.php on line 52
+[21-Nov-2017 20:02:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/bsbpl762/public_html/public/index.php on line 52
+[22-Nov-2017 17:19:48 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('view', Array)
+#4 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(963): app('Illumi in /home/bsbpl762/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752

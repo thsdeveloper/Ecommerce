@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9faddd7-eece-40e8-a2ee-4825df06f802" name="BSBPlacas" url="http://ftp.bsbplacas.com.br">
+        <fileTransfer host="ftp.bsbplacas.com.br" port="21" username="thiago@bsbplacas.com.br">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
